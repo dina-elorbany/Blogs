@@ -1,0 +1,27 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit inventore magnam debitis maxime aspernatur voluptate alias odio culpa aliquam, amet placeat repudiandae veritatis minus soluta veniam consequuntur minima ab numquam impedit sint labore. Nam, obcaecati.",
+      "author": "Mario",
+      "id": 1,
+      "likes": 30
+    },
+
+    {
+      "title": "Welcome party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id corrupti, non libero molestiae dignissimos, quibusdam consectetur ullam recusandae maiores obcaecati minima aperiam commodi iste atque assumenda sapiente, mollitia qui. Facere impedit provident iusto, error earum quasi! Rem pariatur qui quidem excepturi laudantium laboriosam maiores non, accusantium a illo aut natus!",
+      "author": "Yoshi",
+      "id": 2,
+      "likes": 15
+    },
+
+    {
+      "title": "Development is very intersting",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, illum. Neque sed maiores distinctio delectus voluptatum voluptatibus, harum vero. Tempora itaque quasi suscipit, sint est incidunt quia cumque architecto, nihil optio quam numquam velit nostrum? Vel culpa rem optio impedit atque ipsum dolore adipisci nesciunt assumenda cupiditate itaque ab quos, animi est temporibus rerum quisquam, voluptatibus, ducimus repellendus possimus perferendis suscipit praesentium necessitatibus. Id, atque. Ex nulla minus veniam placeat pariatur nobis labore omnis! Nesciunt quos sed quis non. Harum ipsum earum ipsa tempore obcaecati nostrum sint eligendi fugit sit reprehenderit odit, modi unde tenetur, repellat necessitatibus at quibusdam expedita.",
+      "author": "Mario",
+      "id": 3,
+      "likes": 12
+    }
+  ]
+}
